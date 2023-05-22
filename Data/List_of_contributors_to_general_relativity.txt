@@ -1,0 +1,15 @@
+This is a partial list of persons who have made major contributions to the (mainstream) development of general relativity, as acknowledged by standard texts on the subject. Some related lists are mentioned at the bottom of the page.
+• Yvonne Choquet-Bruhat (formerly Yvonne Bruhat; local existence and uniqueness of solutions to the vacuum Einstein equations, initial value formulations, textbook),
+• Albert Einstein (creator of general relativity, principle of equivalence, Einstein field equations, gravitational time dilation, gravitational redshift, gravitational lensing, gravitational waves, perihelion of Mercury, cosmological constant, Einstein–Infeld–Hoffmann equations, Einstein–Rosen bridge),
+• George F. R. Ellis (relativistic cosmological models, classification of curvature singularities, averaging problem in cosmology, gauge-invariant linear perturbations of spatially homogeneous cosmologies, "small universes," monograph, Virbhadra–Ellis lens equation),
+• Richard Feynman (sticky bead argument [as 'Mr. Smith'], supermassive stars, derivation of the Einstein field equations from quantum field theory, Feynman Lectures on Gravitation),
+• Marcel Grossmann (taught Einstein the necessary mathematical tools for general relativity),
+• Mustafa Halilsoy Nutku-Halil solution for colliding waves, On the Nutku—Halil solution for colliding impulsive gravitational waves
+• Roy Patrick Kerr (Kerr vacuum, Kerr–Schild metrics, use of Lie groups in relativity, Kerr–Farnsworth ansatz),
+• Tullio Levi-Civita (static vacuums, C-metric; see also related list below),
+• Yavuz Nutku Nutku-Halil solution for colliding waves, On the Nutku—Halil solution for colliding impulsive gravitational waves
+• Roger Penrose (Hawking–Penrose singularity theorems, Penrose diagrams, techniques from algebraic geometry and differential topology, Penrose limits, cosmic censorship hypotheses, Penrose inequalities, geometry of gravitational plane waves, impulsive waves, Penrose–Khan colliding plane wave, Newman–Penrose formalism, Weyl curvature hypothesis, highly influential monograph[note 4]),
+• Hermann Weyl (Weyl vacuums; see also related list below),
+• Mathematical Theory of Relativity and Internal Constitution of the Stars.
+• A Relativist's Toolkit: The Mathematics of Black-hole Mechanics and Gravity: Newtonian, Post-Newtonian, Relativistic (with Clifford M. Will).
+• Contributors to the mathematical background for general relativity

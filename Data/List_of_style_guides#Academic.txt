@@ -1,0 +1,72 @@
+A style guide, or style manual, is a set of standards for the writing and design of documents, either for general use or for a specific publication, organization or field. The implementation of a style guide provides uniformity in style and formatting within a document and across multiple documents. A set of standards for a specific organization is often known as "house style". Style guides are common for general and specialized use, for the general reading and writing audience, and for students and scholars of various academic disciplines, medicine, journalism, the law, government, business, and industry.
+
+Several basic style guides for technical and scientific communication have been defined by international standards organizations. These are often used as elements of and refined in more specialized style guides that are specific to a subject, region, or organization. Some examples are:
+• Style Manual: For Authors, Editors and Printers by Snooks & Co for the Department of Finance and Administration. 6th ed. ISBN 0-7016-3648-3.
+• The Australian Handbook for Writers and Editors by Margaret McKenzie. 4th ed. ISBN 9781921606496.
+• The Cambridge Guide to Australian English Usage by Pam Peters of Macquarie University. 2nd ed. ISBN 9780521702423.
+• The Complete Guide to English Usage for Australian Students by Margaret Ramsay. 6th ed. ISBN 9780521702423.
+• Australian Guide to Legal Citation published by University of Melbourne Law School. 4th ed. ISBN 9780521702423.
+• Australian manual of scientific style (AMOSS) by Biotext; illustrated by Biotext. 1st ed. ISBN 978-0-9946369-0-4
+• The Canadian Style: A Guide to Writing and Editing: by Dundurn Press in co-operation with Public Works and the Government Services Canada Translation Bureau. ISBN 1-55002-276-8.
+• CP Stylebook: Guide to newspaper style in Canada maintained by the Canadian Press. ISBN 0-920009-38-7.
+• The Globe and Mail Style Book: Originally created to help writers and editors at the Globe and Mail present clear, accurate and concise stories. ISBN 0-7710-5685-0
+• English Style Guide ("A handbook for authors and translators in the European Commission" – executive branch of the European Union.)[3]
+• Copy-editing: The Cambridge Handbook for Editors, Authors and Publishers Judith Butcher. 3rd ed. 1992 Cambridge: Cambridge University Press ISBN 0-521-40074-0
+• The King's English, by Henry Watson Fowler and Francis George Fowler.
+• The Oxford Style Manual (2003 ed.). Combines The Oxford Guide to Style and The Oxford Dictionary for Writers and Editors, which concentrates on common problems.
+• Oxford Standard for Citation of Legal Authorities (OSCOLA), by the University of Oxford Faculty of Law
+• The BBC News Style Guide: by the British Broadcasting Corporation.[4]
+• The Economist Style Guide: by The Economist.[5]
+• The Guardian Style Guide: by The Guardian[6]
+• The Times Style and Usage Guide, by The Times.
+
+For the computer industry (software and hardware)
+• Acorn Technical Publications Style Guide, by Acorn Computers. Provides editorial guidelines for text in RISC OS instructional publications, technical documentation, and reference information.[7]
+• RISC OS Style Guide[8] by RISC OS Open Limited. Provides design guidelines, help and dialogue box phrasing examples for the software user interface.
+
+In the United States, both corporate and journalistic forms of mass communication rely on styles provided in the Associated Press Stylebook (AP).[9] A classic grammar style guide, which is designed to complement the AP Stylebook, is The Elements of Style. Together, these two books are referenced more than any other general style book for U.S. third-person writing used across most professions.[citation needed]
+• Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right, by Bill Bryson.
+• The Elements of Style. By William Strunk, Jr. and E. B. White. (Often referred to as "Strunk and White".)
+• The Bluebook: A Uniform System of Citation. Jointly, by the Harvard Law Review, Yale Law Journal, Columbia Law Review, and Penn Law Review.
+• The Indigo Book: An Open and Compatible Implementation of A Uniform System of Citation. Collaboratively by Professor Christopher Jon Sprigman and NYU law students, and published by Public.Resource.Org.
+• ALWD Guide to Legal Citation, formerly ALWD Citation Manual, by the Association of Legal Writing Directors
+• New York Style Manual: The Tanbook, by the New York State Reporter
+• The Chicago Manual of Style, Chicago: University of Chicago Press.
+• A Manual for Writers of Research Papers, Theses, and Dissertations, Chicago Style for Students and Researchers, by Kate L. Turabian. Often referred to as "Turabian."
+• MLA Handbook for Writers of Research Papers, by Joseph Gibaldi. Often referred to as "MLA".
+• Publication Manual of the American Psychological Association, by the American Psychological Association (APA).
+• The New York Times Manual of Style and Usage. By Allan M. Siegal and William G. Connolly.
+• The Wall Street Journal Guide to Business Style and Usage, by Ronald J. Alsop and the Staff of the Wall Street Journal.
+• The BuzzFeed Style Guide: by Emmy Favilla and Megan Paolone.[10]
+• The Columbia Guide to Online Style, by Janice Walker and Todd Taylor.
+• Web Style Guide: Basic Design Principles for Creating Web Sites, by Patrick J. Lynch and Sarah Horton.
+• The Associated Press Stylebook, By the Associated Press, Basic Books ISBN 978-0-917360-63-3.
+• The Business Style Handbook, An A-to-Z Guide for Effective Writing on the Job, by Helen Cunningham and Brenda Greene.[11]
+
+For the computer industry (software and hardware)
+• Apple Style Guide, published online by Apple Inc.[12] Provides editorial guidelines for text in Apple instructional publications, technical documentation, reference information, training programs, and the software user interface. 
+
+An earlier version was the Apple Publications Style Guide.[13][14]
+• Google Developer Documentation Style Guide, published online by Google.[17] Provides a set of editorial guidelines for anyone writing developer documentation for Google-related projects.
+• Microsoft Writing Style Guide, published online by Microsoft Corporation.[19] Provides a style standard for technical documentation including use of terminology, conventions, procedure, design treatments, and punctuation and grammar usage. Before 2018, Microsoft published a book, the Microsoft Manual of Style for Technical Publications.
+• Read Me First! A Style Guide for the Computer Industry, by Sun Technical Publications, 3rd ed., 2010.[23]
+• Salesforce style guide for documentation and user interface text, published online by Salesforce.[25]
+• The IBM Style Guide: Conventions for Writers and Editors, 2011,[27] and Developing Quality Technical Information: A Handbook for Writers and Editors, 2014,[28] from IBM Press.
+• The Splunk Style Guide, published online by Splunk.[29] Provides a writing style reference for anyone writing or editing technical documentation.
+• The Chicago Manual of Style, by University of Chicago Press staff.
+• The Chicago Manual of Style. The standard of the academic publishing industry including many journal publications.
+• A Manual for Writers of Term Papers, Theses, and Dissertations (frequently called "Turabian style")—Published by Kate L. Turabian, the graduate school dissertation secretary at the University of Chicago from 1930 to 1958. The school required her approval for every master's thesis and doctoral dissertation. Her stylistic rules closely follow The Chicago Manual of Style, although there are some differences.
+• ACS Style Guide—for scientific papers published in journals of the American Chemical Society.
+• American Medical Association Manual of Style—for medical papers published in journals of the American Medical Association.
+• American Psychological Association Style Guide—for the behavioral and social sciences; published by the American Psychological Association.
+• American Sociological Association Style Guide—for the social sciences; published by the American Sociological Association.
+• Geoscience Reporting Guidelines—for geoscience reports in industry, academia and other disciplines.[31]
+• Handbook of Technical Writing, by Gerald J. Alred, Charles T. Brusaw, and Walter E. Oliu.—for general technical writing.
+• IEEE style—used in many technical research papers, especially those relating to computer science.
+• The Little Style Guide by Leonard G. Goss and Carolyn Stanford Goss—provides a distinctively religious examination of style and language for writers and editors in religion, philosophy of religion, and theology— ISBN 978-0-8054-2787-5.
+• MHRA Style Guide—for the arts and humanities; published by the Modern Humanities Research Association. Available as a free download (see article).
+• MLA Style Manual, and the MLA Handbook for Writers of Research Papers—for subjects in the arts and the humanities; published by the Modern Language Association of America (MLA).
+• SBL Handbook of Style—Society of Biblical Literature style manual specifically for the field of ancient Near Eastern, biblical, and early Christian studies. The SBL Handbook of Style includes a recommended standard format for abbreviation of Primary Sources in Ancient Near Eastern, biblical, and early Christian Studies.
+• Scientific Style and Format: The CSE Manual for Authors, Editors, and Publishers—for scientific papers published by the Council of Science Editors (CSE), a group formerly known as the Council of Biology Editors (CBE).[32]
+• The Style Manual for Political Science—used by many American political science journals; published by the American Political Science Association.
+• GLAAD Media Reference Guide, 8th ed., GLAAD College Media Reference Guide, 1st ed., GLAAD Chinese Media Reference Guide, 1st ed. - published by GLAAD to encourage media outlets to use language and practices inclusive of LGBT people. Available as a free download.[33]

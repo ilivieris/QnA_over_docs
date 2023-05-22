@@ -1,0 +1,19 @@
+OSNews is a computing online newspaper. It originally focused on operating systems and their related technologies that launched in 1997, but is now aggregating consumer electronics news. The content is managed by a group of editors and the owner.[1] As of 2014, its managing editor is Thom Holwerda, who joined in 2005.[2]
+
+OSnews has been referenced by TIME,[3] Ars Technica,[4][5] Wired,[6][7] Computerworld,[8][9] LifeHacker,[10][11][12] Linux.com,[13] OMG! Ubuntu![14] and lwn.net.[15] Wired described OSnews as "an alternative operating system Web magazine",[16] and in 2011 Holwerda noted that "while the alternative operating systems scene might no longer be the prime focus of OSNews due to a lack of activity in that field, it's still where our heart lies."[17]
+• Thom Holwerda, who recently (as of 2021) moved from the Netherlands to Sweden, is managing editor.[1][18]
+• Eugenia Loli-Queru, the former editor-in-chief of OSNews, resigned in June 2005. Version 2 of OSNews was written by Eugenia in August 2001 when she resurrected the site after long periods of inactivity.[ ] She took on a more passive role in recent years as senior editor.[1] She started the original GnomeFiles.org (GTK+ software repository).[19]
+• Adam Scheinberg is the webmaster.[1] He wrote version 3 of the site in 2005, which added user registration, and version 4, a complete and total rewrite of the codebase. In late 2018, he led the conversion to WordPress.[20]
+• Jon Jensen is the systems administrator, dealing with site availability and DNS.[1]
+
+Besides its main site, OSNews detects hundreds of mobile browsers and handsets[1] and redirects them to a specially formatted cHTML version of the website at mobile.osnews.com. Eugenia Loli-Queru, the author of this script, open sourced it in 2008.[21]
+
+The editors contribute original articles and manage the submissions of news bits, articles, editorial comments and reviews that are submitted by readers. OSNews serves daily 275,000 page views on average (as of October 2005).[citation needed]
+
+Like other technology news sites such as Slashdot, it has a free user/subscription model, and allows viewers to add commentary to articles. In 2005, OSNews published version 3 of its website, which includes an all-new commenting engine. Instead of reporting comments to moderators, this system now relies on votes. Readers can vote comments up or down, and readers can set a score threshold, which can eliminate the down-voted comments from view.
+
+In late 2007, version 4 was launched, which completely overhauled the backend of the website, and was followed by version 4.1[22] which added a brand new theme and look to the website.
+
+On February 12, 2007, managing editor Thom Holwerda published the 1.0 version of the OSNews Style Guide.[23] This style guide is licensed under a Creative Commons license so that other websites and publications can use and adapt the guide to their liking. OSNews is one of the few sites of its kind with such a style guide.
+
+In January 2008, Thom Holwerda launched Focus Shift,[24] a webcomic based on the various news items OSNews carries. Focus Shift was updated tri-weekly, until it was discontinued in mid-2008.
